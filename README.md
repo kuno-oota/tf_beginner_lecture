@@ -7,4 +7,4 @@
 * tf_mnist_load.ipynb# Load
 
 # 事前に必要なもの
-pip install tensorflow matplotlib pandas pydot graphviz
+pip install matplotlib pandas pydot graphviz pillow
